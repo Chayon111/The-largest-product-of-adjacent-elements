@@ -20,4 +20,4 @@ function solution(inputArray){
     }
     return firstBiggestNum;
 }
-console.log(solution(inputArray));
+console.log(solution(inputArray)); // 21
